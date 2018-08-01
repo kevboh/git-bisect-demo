@@ -10,4 +10,4 @@ registerServiceWorker();
 // TODO: Add blockchain
 // TODO: Make viral (anime???????)
 // TODO: Markov chain social media PLUS mechanical turk to make it seem real!
-// TOOD: Dooooooooooot
+// TOOD: Doooooooooooot
