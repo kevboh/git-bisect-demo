@@ -9,4 +9,4 @@ registerServiceWorker();
 
 // TODO: Add blockchain
 // TODO: Make viral (anime???????)
-// TODO: Social media.
+// TODO: Markov chain social media.
