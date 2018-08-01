@@ -8,3 +8,4 @@ ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
 
 // TODO: Add blockchain
+// TODO: Make viral (anime????)
