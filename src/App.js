@@ -10,7 +10,7 @@ class App extends Component {
             Will the React Native team fix the bug blocking my app’s release?
           </h1>
         </header>
-        <p className="neural-network-computationally-expensive">NO</p>
+        <p className="neural-network-computationally-expensive">YES</p>
       </div>
     );
   }
