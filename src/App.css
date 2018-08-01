@@ -1,28 +1,29 @@
-.App {
+.app-nextgen-styling-classPattern_tachyons {
   text-align: center;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
-}
-
-.App-header {
+.header-nextgen-styling-classPattern_tachyons {
   background-color: #222;
   height: 150px;
   padding: 20px;
   color: white;
+  justify-content: center;
+  align-items: center;
 }
 
-.App-title {
-  font-size: 1.5em;
+.https\:\/\/stackoverflow\.com\/questions\/39512840\/css-text-flow-and-centering {
+  font-size: 2.5em;
 }
 
-.App-intro {
-  font-size: large;
+.neural-network-computationally-expensive {
+  font-size: 13em;
 }
 
 @keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }

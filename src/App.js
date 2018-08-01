@@ -1,18 +1,16 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
+      <div className="app-nextgen-styling-classPattern_tachyons">
+        <header className="header-nextgen-styling-classPattern_tachyons">
+          <h1 className="https://stackoverflow.com/questions/39512840/css-text-flow-and-centering">
+            Will the React Native team fix the bug blocking my app’s release?
+          </h1>
         </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p className="neural-network-computationally-expensive">NO</p>
       </div>
     );
   }
